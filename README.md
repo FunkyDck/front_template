@@ -5,3 +5,5 @@
 2. `npm install`
 3. To run tests launch `npm test`
 4. To fire up the dev server `npm run dev`
+
+By default dev server listens http://localhost:1234
