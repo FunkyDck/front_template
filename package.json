@@ -1,0 +1,20 @@
+{
+  "name": "front_template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel serve src/index.html",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "parcel": "^2.8.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
